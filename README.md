@@ -1,5 +1,7 @@
 # rakpy
 
+[![Join the chat at https://gitter.im/jlirochon/rakpy](https://badges.gitter.im/jlirochon/rakpy.svg)](https://gitter.im/jlirochon/rakpy?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Pythonic implementation of the [RakNet](https://github.com/OculusVR/RakNet) protocol **WORK IN PROGRESS**
 
 [![Build Status](https://img.shields.io/travis/jlirochon/rakpy/master.svg?style=flat-square)](https://travis-ci.org/jlirochon/rakpy)
